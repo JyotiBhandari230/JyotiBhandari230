@@ -66,10 +66,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
 
-  <!-- NLP -->
+  <!-- NLTK -->
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/NLTK_logo.png" alt="NLP" width="40" height="40"/>
+    <img src="https://www.nltk.org/images/nltk-logo.png" alt="NLTK" width="40" height="40"/>
   </a>
+
 
   <!-- Jupyter -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
