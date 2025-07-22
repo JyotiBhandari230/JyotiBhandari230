@@ -84,17 +84,22 @@
 
 </p>
 
-
-
-
-
 ---
 
+
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotibhandari230&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotibhandari230&show_icons=true&locale=en" alt="jyotibhandari230" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotibhandari230&" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotibhandari230" alt="GitHub Streak" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotibhandari230&layout=compact" alt="Top Languages" />
+</p>
+
+
+
