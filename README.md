@@ -65,11 +65,11 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
-
-  <!-- NLTK -->
+  
+  <!--NLTK-->
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.nltk.org/images/nltk-logo.png" alt="NLTK" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/NLTK-Natural%20Language%20Toolkit-green?style=for-the-badge&logo=nltk" alt="NLTK" height="30"/>
+ </a>
 
 
   <!-- Jupyter -->
