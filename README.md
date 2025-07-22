@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyoti Bhandari</h1>
 <h3 align="center">✨ Welcome to my GitHub profile! I'm a Data Science enthusiast, currently learning and building real-world projects in Data Science and Analytics. 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jyotibhandari230&label=Profile%20views&color=0e75b6&style=flat" alt="jyotibhandari230" />
-</p>
+
 
 ---
 
