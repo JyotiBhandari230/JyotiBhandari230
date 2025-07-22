@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**JyotiBhandari230/JyotiBhandari230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Jyoti BHandari</h1>
 <h3 align="center">✨ Welcome to my GitHub profile! I'm currently pursuing Data Science and preparing for roles in Data Science and Data Analytics. Here, you’ll find my learning journey, real-world projects, and data-driven experiments! 🚀</h3>
 
