@@ -99,5 +99,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotibhandari230&layout=compact" alt="Top Languages" />
 </p>
 
+---
+
+<br>
+<h3 align="center">✨ Thanks for visiting! ✨</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" alt="Waving Hand" />
+</p>
+<p align="center">
+  <b>Keep exploring, keep learning — see you around! 🚀</b>
+</p>
+
+
 
 
